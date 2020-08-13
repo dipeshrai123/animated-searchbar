@@ -65,7 +65,7 @@ export default AnimatedSearch;
 
 const styles = {
   container: {
-    width: 500,
+    width: 400,
     marginLeft: "auto",
     marginRight: "auto",
     backgroundColor: "#FFF",
