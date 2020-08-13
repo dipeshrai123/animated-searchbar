@@ -1,5 +1,5 @@
 import React from "react";
 import ReactDOM from "react-dom";
-import AnimatedReaction from "./AnimatedReaction";
+import AnimatedSearch from "./AnimatedSearch";
 
-ReactDOM.render(<AnimatedReaction />, document.querySelector("#root"));
+ReactDOM.render(<AnimatedSearch />, document.querySelector("#root"));
